@@ -15,13 +15,6 @@ public:
             else if(numbers[i]+numbers[j] < target)
                 i++;
 
-            // int num = target - numbers[i];
-            // for(int j=i+1;j<numbers.size();j++){
-            //     if(num== numbers[j]){
-            //         ans.push_back(i+1);
-            //         ans.push_back(j+1);
-            //     }
-            // }
         }
 
         return ans;
