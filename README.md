@@ -10,5 +10,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnee-gy/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/avnee-gy/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Array
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnee-gy/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnee-gy/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/avnee-gy/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
